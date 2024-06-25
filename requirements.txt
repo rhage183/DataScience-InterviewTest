@@ -1,0 +1,17 @@
+numpy
+pandas
+ipdb
+ipykernel
+matplotlib
+scipy
+scikit-learn
+pyarrow
+imblearn
+xgboost
+
+python-dotenv
+psycopg2-binary
+
+fastapi==0.108.0
+pytz
+uvicorn

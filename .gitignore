@@ -1,0 +1,9 @@
+*.jpg
+*.csv
+*.pdf
+*.pkl
+Deliverable/__pycache__/api.cpython-310.pyc
+Deliverable/__pycache__/model.cpython-310.pyc
+template.csv:Zone.Identifier
+dataset.csv:Zone.Identifier
+ML Case Study README.pdf:Zone.Identifier
