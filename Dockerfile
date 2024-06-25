@@ -6,4 +6,5 @@ RUN pip install -r requirements.txt
 
 COPY Deliverable Deliverable
 COPY dataset.csv dataset.csv
-CMD uvicorn api:app --host 0.0.0.0
+COPY setup.py setup.py
+CMD uvicorn Deliverable.api:app --host 0.0.0.0
