@@ -8,3 +8,4 @@ template.csv:Zone.Identifier
 dataset.csv:Zone.Identifier
 ML Case Study README.pdf:Zone.Identifier
 .env
+.python-version
